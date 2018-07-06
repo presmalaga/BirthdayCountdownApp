@@ -1,6 +1,6 @@
 
-$color-blue-one: #5496E6;
-$color-blue-two: #518BDE;
+$color-red-one: rgb(218, 24, 24);
+$color-red-two: rgb(200, 47, 47);
 $color-gray-one: #444;
 $color-gray-two: #E6E6E6;
 $color-yellow-one: #F7D754;
@@ -24,7 +24,7 @@ $font-mont: "Montserrat";
         // align-self: center;
 
         font-size: 18px;
-        color: white;
+        color: rgb(255, 238, 238);
         font-family: $font-mont;
         font-weight: 300;
         line-height: 22px;
